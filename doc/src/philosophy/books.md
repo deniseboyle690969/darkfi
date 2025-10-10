@@ -130,3 +130,5 @@
 
 * [Cryptoeconomics](https://voskuil.org/cryptoeconomics/index.html)
   by Eric Voskuil.
+
+<!-- Auto-update: 2025-10-10T13:23:30.754793 -->
