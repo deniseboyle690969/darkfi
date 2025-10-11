@@ -452,3 +452,5 @@ Optional: many DAOs these days implement Abstain, which increases the
 quorum without voting yes. This is for when you want to weak support
 a measure, allowing it to reach quorum faster. This could be
 implemented in DarkFi, by allowing the vote yes to optionally be 0.
+
+<!-- Auto-update: 2025-10-11T12:18:32.469365 -->
